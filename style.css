@@ -52,6 +52,28 @@ nav ul li a:hover {
     text-align: center;
 }
 
+.section ul{
+    text-align: left;
+    background-color: rgb(66, 92, 120);
+    width: 100%;
+    padding-left: 10rem;
+    color: white;
+}
+
+.section ol{
+    text-align: left;
+    background-color: rgb(66, 92, 120);
+    padding-left: 10rem;
+    color: white;
+}
+
+.section ol ul{
+    text-align: left;
+    background-color: rgb(153, 168, 244);
+    width: 100%;
+    padding-left: 4rem;
+}
+
 h2, h3 {
     color: #003366;
     margin-bottom: 1rem;
